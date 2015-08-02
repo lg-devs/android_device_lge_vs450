@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-include device/lge/w5-common/BoardConfigCommon.mk
+include device/lge/msm8610-common/BoardConfigCommon.mk
 
 TARGET_KERNEL_CONFIG := cyanogenmod_vs450_defconfig
 

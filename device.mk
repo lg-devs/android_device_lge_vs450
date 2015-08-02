@@ -15,7 +15,7 @@
 #
 
 $(call inherit-product-if-exists, vendor/lge/vs450/vs450-vendor.mk)
-$(call inherit-product, device/lge/w5-common/w5-common.mk)
+$(call inherit-product, device/lge/msm8610-common/msm8610-common.mk)
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay

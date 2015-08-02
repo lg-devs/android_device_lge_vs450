@@ -1,6 +1,6 @@
 [
   {
-    "repository": "android_device_lge_w5-common",
-    "target_path": "device/lge/w5-common"
+    "repository": "android_device_lge_msm8610-common",
+    "target_path": "device/lge/msm8610-common"
   }
 ]
