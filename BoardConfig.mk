@@ -20,4 +20,4 @@ TARGET_KERNEL_CONFIG := cyanogenmod_vs450_defconfig
 
 TARGET_OTA_ASSERT_DEVICE := vs450,w5c
 
-G2_DTS_TARGET := msm8610-w5c_vzw
+MSM8610_DTS_TARGET := msm8610-w5c_vzw
